@@ -6,40 +6,34 @@
 ## Título secundário
 ### Título menor
 #### Título ainda menor
+
 ✨ Negrito
 **texto em negrito**
 
-Resultado: texto em negrito
+
 
 🌸 Itálico
 *texto em itálico*
 
-Resultado: texto em itálico
 
 📋 Lista
 - Primeiro item
 - Segundo item
 - Terceiro item
 
-Resultado:
 
-Primeiro item
-Segundo item
-Terceiro item
 ☑️ Checklist
 - [ ] Tarefa ainda não realizada
 - [x] Tarefa realizada
 
-Resultado:
 
- Tarefa ainda não realizada
- Tarefa realizada
 🔗 Link
 [Nome do link](https://www.exemplo.com)
 
 Exemplo:
-
 [Meu LinkedIn](https://www.linkedin.com/)
+
+
 🖼️ Imagem
 ![Descrição da imagem](caminho-da-imagem.png)
 
@@ -47,12 +41,16 @@ O ! diz ao Markdown:
 
 "Quero mostrar uma imagem."
 
+
+
 💻 Código pequeno dentro do texto
 Use o comando `ipconfig` para consultar informações de rede.
 
 Resultado:
 
 Use o comando ipconfig para consultar informações de rede.
+
+
 
 🖥️ Bloco de código
 
@@ -81,9 +79,7 @@ sql
 💬 Citação
 > Esta é uma citação.
 
-Resultado:
 
-Esta é uma citação.
 
 ➖ Linha separadora
 ---
@@ -92,11 +88,13 @@ Resultado:
 
 🔤 Texto com várias formatações
 
+
 Você pode misturar os comandos:
 
 # 🚀 Meu Projeto
 
 Este é um projeto de **Cibersegurança** que estou desenvolvendo.
+
 
 ## 📚 O que estou aprendendo
 
@@ -104,11 +102,13 @@ Este é um projeto de **Cibersegurança** que estou desenvolvendo.
 - Linux
 - Segurança da informação
 
+
 ### 🎯 Objetivo
 
 *Aprender praticando!*
 
 > Um projeto de cada vez. 💙
+
 
 
 # 🧠 A SUPER COLA
